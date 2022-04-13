@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FirstAzureApp.API": {
+      "commandName": "Project",
+      "launchBrowser": true
+    }
+  }
+}
